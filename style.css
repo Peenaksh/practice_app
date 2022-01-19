@@ -1,0 +1,27 @@
+button {
+    width: 250px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+
+}
+button :hover{
+    color: red;
+    font-size: 50px;
+    border: darkgreen 20px;
+}              
+body{
+    background-color: deepskyblue;
+    text-align: center;
+}
+h1 , label{
+    font-size: 80px;
+    color:orangered;
+    
+}
+marquee{
+    margin-top: 40px;
+    font-size: 60px;
+    background-color: rgb(68, 192, 11);
+}
